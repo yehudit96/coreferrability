@@ -13,7 +13,7 @@ This research is consisit of 4 stages:
 
 ## Tweets pair collection
 
-This stage code is in 
+This stage code is extracting the tweets by their id
 
 ## Features creation
 
